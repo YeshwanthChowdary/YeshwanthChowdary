@@ -50,9 +50,9 @@ I build scalable backend systems, write clean and maintainable code, and enjoy s
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=your-github-username&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&theme=radical&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=YeshwanthChowdary&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=YeshwanthChowdary&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YeshwanthChowdary&theme=radical&hide_border=false&layout=compact)
 
 ---
 
